@@ -11,7 +11,7 @@ module HoneypotCaptcha
     end
 
     def honeypot_style_class
-      nil
+      'display-none'
     end
 
     def protect_from_spam
